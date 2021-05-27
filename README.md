@@ -1,2 +1,2 @@
 # bitcoin
-Bitcoin app with fetchcing crypto currency values
+Bitcoin app with fetching crypto currency values
